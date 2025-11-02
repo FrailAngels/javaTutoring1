@@ -6,7 +6,14 @@ public class FirstCode {
         System.out.println("Learning java is fun");
         System.out.print("Have a good day! ");
         System.out.print("Learning java is fun");
-        
+
+        System.out.println();
+
+        System.out.println("3");
+        System.out.println("358");
+        System.out.println("50000");
     }
+
+    
     
 }
